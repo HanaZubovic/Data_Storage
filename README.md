@@ -6,8 +6,10 @@ Using Python and SQLAlchemy, complete a climate analysis and data exploration of
 
 ## File Directory
 - Resources folder contains both `.csv` and `.sqlite` data regarding information collected by weather stations in Hawaii.
-- `flask_app.py` containes sqlalchemy script for app routes
+- Data_Storage folder contains both the main python script and flask app
+- `flask_app.py` contains sqlalchemy script for app routes
 - `climate.ipynb` is the Jupyter Notebook with the main weather analysis and visualizations
+- Images folder contains screenshots of some visualizations
 
 ## Process
 - With Pandas, created a summary statistics for the precipitation and station data.
