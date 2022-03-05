@@ -2,15 +2,15 @@
 
 ### The Challenge
 
-Using Python and SQLAlchemy, complete a climate analysis and data exploration of your climate database to find an ideal time to plan a trip to Honolulu, Hawaii. The analysis has to be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
+Using Python and SQLAlchemy, complete a climate analysis and data exploration of a climate database to find an ideal time to plan a trip to Honolulu, Hawaii. The analysis has to be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
 ## File Directory
 - Resources folder contains both `.csv` and `.sqlite` data regarding information collected by weather stations in Hawaii.
 - 
 
 ## Process
--
-- Using Flask to create routes to API data
+- With Pandas, created a summary statistics for the precipitation data.
+- Used Flask to create routes to API data
 - 
 
 ### Precipitation Analysis
